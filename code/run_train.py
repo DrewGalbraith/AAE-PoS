@@ -6,7 +6,7 @@
 # Ensure we're working in the right directory
 
 import os
-target_dir = r"path/to/dir"
+target_dir = r"<path/to/dir>"
 os.chdir(target_dir)
 
 # %%
